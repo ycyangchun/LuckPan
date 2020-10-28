@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity implements LuckPanLayout.Ani
 
     @Override
     public void endAnimation(int position) {
+        System.out.println("Position = "+position+","+strs[position]);
         Toast.makeText(this,"Position = "+position+","+strs[position],Toast.LENGTH_SHORT).show();
     }
 

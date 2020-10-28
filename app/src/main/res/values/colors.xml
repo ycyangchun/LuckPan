@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="panBackGround">#FA3E3F</color>
+    <color name="panBall1">#FFFDFD</color>
+    <color name="panBall2">#Fde173</color>
+    <color name="innerBackGround">#bc1016</color>
+    <color name="dPaint">#F9F8F6</color>
+    <color name="sPaint">#FEEEAE</color>
+    <color name="lineC">#DB7B15</color>
+    <color name="textC">#A10408</color>
+
 </resources>
